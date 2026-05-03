@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> معاك كل حاجة بتتحل
+> في حضنك روحي تلاقي الأمل
+> نار الأشواق بقلبي تشتعل
+> يا نبض القلب، فيك أكتمل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
