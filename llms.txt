@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-kol-haga-betet7al/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Ma3ak Kol Haga Betet7al](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
