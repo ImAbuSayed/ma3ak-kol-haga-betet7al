@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Kol Haga Betet7al
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Kol Haga Betet7al** (ma3ak-kol-haga-betet7al).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:41:38.896779 | `v1` | `774704f8ec266d860573ad99ef70d9215e78f8d302c9ceb035b3c3cce37c8fb6` | `e5fea98d5061a63561e5a31138ff221bffdf59c9e4083ce6830ddcf64334e852` | `2026-05-09_ma3ak-kol-haga-betet7al-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
